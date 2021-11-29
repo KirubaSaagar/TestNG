@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52653" started-at="2021-11-28T11:17:00 IST" finished-at="2021-11-28T11:17:53 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52653" started-at="2021-11-28T11:17:00 IST" finished-at="2021-11-28T11:17:53 IST">
+      <class name="com.Runner.Testng_Runner">
+        <test-method status="PASS" signature="urlLaunch()[pri:0, instance:com.Runner.Testng_Runner@20d7d6fb]" name="urlLaunch" is-config="true" duration-ms="7894" started-at="2021-11-28T11:17:00 IST" finished-at="2021-11-28T11:17:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlLaunch -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.Runner.Testng_Runner@20d7d6fb]" name="signin" is-config="true" duration-ms="6982" started-at="2021-11-28T11:17:08 IST" finished-at="2021-11-28T11:17:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="Women()[pri:-1, instance:com.Runner.Testng_Runner@20d7d6fb]" name="Women" duration-ms="21813" started-at="2021-11-28T11:17:15 IST" finished-at="2021-11-28T11:17:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Women -->
+        <test-method status="PASS" signature="signingOff()[pri:0, instance:com.Runner.Testng_Runner@20d7d6fb]" name="signingOff" is-config="true" duration-ms="3808" started-at="2021-11-28T11:17:37 IST" finished-at="2021-11-28T11:17:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signingOff -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.Runner.Testng_Runner@20d7d6fb]" name="signin" is-config="true" duration-ms="5539" started-at="2021-11-28T11:17:41 IST" finished-at="2021-11-28T11:17:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="tshirts()[pri:0, instance:com.Runner.Testng_Runner@20d7d6fb]" name="tshirts" duration-ms="2720" started-at="2021-11-28T11:17:46 IST" finished-at="2021-11-28T11:17:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tshirts -->
+        <test-method status="PASS" signature="signingOff()[pri:0, instance:com.Runner.Testng_Runner@20d7d6fb]" name="signingOff" is-config="true" duration-ms="3080" started-at="2021-11-28T11:17:49 IST" finished-at="2021-11-28T11:17:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signingOff -->
+        <test-method status="PASS" signature="closingSession()[pri:0, instance:com.Runner.Testng_Runner@20d7d6fb]" name="closingSession" is-config="true" duration-ms="754" started-at="2021-11-28T11:17:52 IST" finished-at="2021-11-28T11:17:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingSession -->
+      </class> <!-- com.Runner.Testng_Runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
